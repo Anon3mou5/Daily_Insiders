@@ -1,7 +1,7 @@
 # Daily_Insiders
 
-It's a news App,which provides latest Headlines and breaking news about your city/area of interest
-You can choose to news based on Sources
+It is a news App,which provides latest Headlines and breaking news about your city/area of interest
+You can choose news based on Sources
 Implemented webview, to show full information about the news
 
 # Api
